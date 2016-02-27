@@ -2,7 +2,7 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+*.csv
 # Package Files #
 *.jar
 *.war

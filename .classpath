@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache Math"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache CSV"/>
+	<classpathentry kind="lib" path="E:/EclipseWorkspace/SSS_Kalman_Testing/src/opencsv-3.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
