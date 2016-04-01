@@ -72,7 +72,7 @@ public class CSV_Handler {
 	private boolean invalidRunNo(int runNo){return (runNo > runCount || runCount == 0 || runNo <= 0)?true:false;}
 	
 	public static double f(double x){
-		return x;
+		return (x-10)*(x-10);
 	}
 
 	public long getDatapoints() {
